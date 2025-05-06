@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: hello-project
-Version: 0.1.0
-Summary: A greeting package
-Author-email: Janmesh Joshi <janmeshjoshi1510@gmail.com>
-Requires-Python: >=3.11
-Description-Content-Type: text/markdown
