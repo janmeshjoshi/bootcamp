@@ -1,0 +1,8 @@
+[project]
+name = "hello-project_janmesh"
+version = "0.1.1"
+description = "A greeting package"
+authors = [{name="Janmesh Joshi", email="janmeshjoshi1510@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
